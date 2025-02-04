@@ -13,7 +13,7 @@ body {
     margin: 0 auto;
   }
   
-  /* Header Styles */
+  
   header {
     background: #2c6a2f;
     color: #fff;
@@ -38,7 +38,7 @@ body {
     font-weight: bold;
   }
   
-  /* Hero Section */
+  /*hero*/
   .hero {
     background: url('../Assets/Eco friendly wood table mockup with plant and sunlight _ Premium AI-generated image.jpg') no-repeat center center/cover;
     color: #fff;
@@ -65,7 +65,7 @@ body {
     border-radius: 5px;
   }
   
-  /* Blog Section */
+  /* Blog */
   .blog {
     padding: 50px 0;
   }
